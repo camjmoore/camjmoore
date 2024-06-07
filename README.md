@@ -1,4 +1,4 @@
-```javascript
+```shell
 ~ $ cat hello.txt
 
       ___           ___           ___       ___       ___     
