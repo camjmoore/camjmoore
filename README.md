@@ -13,9 +13,8 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
-
-**welcome to the resulting wasteland of repositories tracking my pursuit of bug free bliss**
 ```
+**welcome to the resulting wasteland of repositories tracking my pursuit of bug free bliss**
 ```
 ~ $ cat note.txt
 You might not find much useful here but you might glean a bit my general skills and how I solve problems.
