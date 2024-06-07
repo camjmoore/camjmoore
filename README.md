@@ -15,7 +15,7 @@
 ~ $ cat welcome.txt
 welcome to my github, a wasteland of repositories chronicling my pursuit of bug free bliss
 ```      
-
+##
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
