@@ -1,32 +1,35 @@
 ```
-                         ___           ___           ___       ___       ___     
-                        /\__\         /\  \         /\__\     /\__\     /\  \    
-                       /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                      /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                     /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                    /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                    \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                         \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                         /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                        /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                        \/__/         \/__/         \/__/     \/__/     \/__/
 
-     welcome to my github, the resulting wasteland of my personal experiences chasing buggy bliss
-```                                                                             
-You might not find much useful here but you might glean a bit about my interests, general skills (skill issues) and how I solve problems. I am trying to understand a bit more about systems and lower level operations like memory so I've been taking a peak at Go and C. I've created some web apps during my time at a bootcamp called Bloomtech and I aim to become a better general purpose programmer.
-       
 
-<!--
-**camjmoore/camjmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**welcome to the resulting wasteland of repositories tracking my pursuit of bug free bliss**
+```
+```
+~ $ cat note.txt
+You might not find much useful here but you might glean a bit my general skills and how I solve problems.
+
+~ $ f camjmoore
+Login: camjmoore       			          Name: Cameron Moore
+Directory: /home/camjmoore           	Shell: /usr/bin/zsh
+...
+No Mail.
+Project:
+  - Optimizing my dotfiles
+  - Algorithms and Data Structures
+  - Working on my Astro site
+Plan:
+  Take a peak at C and Go to learn more about systems & memory
+```      
+
