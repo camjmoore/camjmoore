@@ -13,6 +13,6 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
 ~ $ cat welcome.txt
-welcome to the resulting wasteland of repositories tracking my pursuit of bug free bliss
+welcome to my gitub, a wasteland of repositories tracking my pursuit of bug free bliss
 ```      
 
