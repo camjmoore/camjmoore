@@ -11,7 +11,7 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/
 
-welcome to my github, the resulting wasteland of my experiences chasing buggy bliss
+welcome to my github, the resulting wasteland of my personal experiences chasing buggy bliss
 ```                                                                             
 
                                                                                       
