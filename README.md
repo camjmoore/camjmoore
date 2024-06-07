@@ -1,3 +1,4 @@
+<p style="text-align: center;">
 ```
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -13,7 +14,7 @@
 
 welcome to my github, the resulting wasteland of my personal experiences chasing buggy bliss
 ```                                                                             
-
+</p>
                                                                                       
 
 
