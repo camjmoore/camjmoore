@@ -1,5 +1,5 @@
 ```
-
+~ $ cat hello.txt
 
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -13,15 +13,12 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
-```
-**welcome to the resulting wasteland of repositories tracking my pursuit of bug free bliss**
-```
-~ $ cat note.txt
-You might not find much useful here but you might glean a bit my general skills and how I solve problems.
+~ $ cat welcome.txt
+welcome to the resulting wasteland of repositories tracking my pursuit of bug free bliss
 
-~ $ f camjmoore
-Login: camjmoore       			          Name: Cameron Moore
-Directory: /home/camjmoore           	Shell: /usr/bin/zsh
+~ $ f cam
+Login: cam       			            Name: Cameron Moore
+Directory: /home/cam                	Shell: /usr/bin/zsh
 ...
 No Mail.
 Project:
