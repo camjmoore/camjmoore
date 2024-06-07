@@ -1,4 +1,4 @@
-```zsh
+```python
 ~ $ cat hello.txt
 
       ___           ___           ___       ___       ___     
