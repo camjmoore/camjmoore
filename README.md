@@ -13,7 +13,7 @@
 
      welcome to my github, the resulting wasteland of my personal experiences chasing buggy bliss
 ```                                                                             
-You might not find much useful here but you might glean a bit about my interests, general skills (skill issues) and how I solve problems. I am trying to understand a bit more about systems and lower level operations like memory so I've been taking a peak at Go and C. I've created some web apps during my time at a bootcamp called Bloomtech and I aim to become a better general purpose programmer. I'm currently practicing my Algos and DS in Python, brushing up on SQL and wondering why Data Engineers don't use lisp.
+You might not find much useful here but you might glean a bit about my interests, general skills (skill issues) and how I solve problems. I am trying to understand a bit more about systems and lower level operations like memory so I've been taking a peak at Go and C. I've created some web apps during my time at a bootcamp called Bloomtech and I aim to become a better general purpose programmer.
        
 
 <!--
