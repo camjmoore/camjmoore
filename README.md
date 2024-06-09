@@ -15,7 +15,7 @@ _____________   /        /::\  \_________   /    /:/  _____/::\  \   \:\  \
 
                                                                              
 ~ $ cat welcome.txt
-welcome to my github, a collection of repositories chronicling my pursuit of bug-free bliss
+welcome to my github, a wasteland of repositories chronicling my pursuit of bug-free bliss
 ```      
 ##
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
