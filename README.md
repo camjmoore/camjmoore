@@ -17,9 +17,9 @@ _____________   /        /::\  \_________   /    /:/  _____/::\  \   \:\  \
 ~ $ cat welcome.txt
 welcome to my github, a wasteland of repositories chronicling my pursuit of bug-free bliss
 ```
-* 🌎 American Fullstack Developer residing in Bolivia
-* &nbsp;λ &nbsp; I'd like to learn more about Functional Programming, Clojure & ClojureScript
-* 🗣️ Learning Spanish, flirting with Portuguese
+* 🌎 American Fullstack Developer
+* &nbsp;λ &nbsp; I'd like to learn more about Functional Programming with Clojure & ClojureScript
+* 🗣️ Learning Spanish, B1 ?
 * 🧐 Watch me act professional on [LinkedIn](https://www.linkedin.com/in/cameronjmoore/)
 ##
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
