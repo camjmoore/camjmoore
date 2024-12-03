@@ -18,7 +18,7 @@ _____________   /        /::\  \_________   /    /:/  _____/::\  \   \:\  \
 welcome to my github, a wasteland of repositories chronicling my pursuit of bug-free bliss
 ```
 * 🌎 Fullstack Developer
-* &nbsp;λ &nbsp;I'd like to learn more about Functional Programming with Clojure & ClojureScript
+* &nbsp;λ &nbsp;I'd like to learn more about Functional Programming & Data Engineering
 * 🗣️ Learning Spanish, B1
 * 🧐 Watch me act professional on [LinkedIn](https://www.linkedin.com/in/cameronjmoore/)
 ##
