@@ -18,8 +18,8 @@ _____________   /        /::\  \_________   /    /:/  _____/::\  \   \:\  \
 welcome to my github, a wasteland of repositories chronicling my pursuit of bug-free bliss
 ```
 * 🌎 Fullstack Developer
-* &nbsp;λ &nbsp;I'd like to learn more about Functional Programming & Data Engineering
-* 🗣️ Learning Spanish, B1
+* &nbsp;λ &nbsp;Currently learning about ETL Development & Data Engineering
+* 🗣️ Spanish B1
 * 🧐 Watch me act professional on [LinkedIn](https://www.linkedin.com/in/cameronjmoore/)
 ##
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
