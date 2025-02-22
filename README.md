@@ -18,7 +18,7 @@ _____________   /        /::\  \_________   /    /:/  _____/::\  \   \:\  \
 welcome to my github, a wasteland of repositories chronicling my pursuit of bug-free bliss
 ```
 * 🌎 Fullstack Developer
-* ![yelloe-etl-pipeline](https://github.com/user-attachments/assets/ab0803ef-fdca-4a67-ae65-3f2e68888572) Learning about ETL Pipelines & Data Engineering
+* ![yellow-etl-pipeline](https://github.com/user-attachments/assets/dbc31ebe-4751-47a5-bb20-b8ed11ac24ea) Learning about ETL Pipelines & Data Engineering
 * 🗣️ Spanish B1
 * 🧐 Watch me act professional on [LinkedIn](https://www.linkedin.com/in/cameronjmoore/)
 ##
